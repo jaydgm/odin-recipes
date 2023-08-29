@@ -1,4 +1,11 @@
 #title {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: brown;
+}
+
+.items {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
