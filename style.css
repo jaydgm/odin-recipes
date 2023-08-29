@@ -5,6 +5,10 @@
     color: brown;
 }
 
+.description {
+    font-family:'Courier New', Courier, monospace;
+}
+
 .items {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
