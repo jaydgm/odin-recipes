@@ -1,4 +1,4 @@
-#title {
+.title {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 35px;
@@ -8,4 +8,14 @@
 .items {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
+}
+
+.img {
+    margin-left: 115px;
+    width: 250px;
+}
+
+h3 {
+    background-color: blue;
+    color: wheat;
 }
