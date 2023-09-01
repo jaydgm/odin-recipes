@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
 .title {
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Sofia, Courier, monospace;
     font-size: 35px;
     color: brown;
 }
@@ -9,9 +13,46 @@
     font-family:'Courier New', Courier, monospace;
 }
 
-.items {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+div {
+    margin: 50px 200px 200px;
+    font-family: Lobster, monospace;
     font-size: 15px;
+    
+}
+
+.item1 {
+    display: block;
+    text-align: center;
+    border-style: solid;
+    border-radius: 48%;
+    border-color:brown;
+    padding: 16px;
+    margin-bottom: 10px;
+    color: rgb(82, 28, 182);
+    background-color: rgb(233, 151, 10);
+}
+
+.item2 {
+    display: block;
+    text-align: center;
+    border-style: solid;
+    border-color:brown;
+    border-radius: 48%;
+    padding: 16px;
+    margin-bottom: 10px;
+    color: rgb(82, 28, 182);
+    background-color: rgb(233, 151, 10);
+}
+
+.item3 {
+    display: block;
+    text-align: center;
+    border-style: solid;
+    border-color:brown;
+    border-radius: 48%;
+    padding: 16px;
+    color: rgb(82, 28, 182);
+    background-color: rgb(233, 151, 10);
 }
 
 .img {
